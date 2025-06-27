@@ -1,2 +1,3 @@
-# Apna-college-demo
-This is my first git repository 
+# firstgit.demo
+This is my first git repository
+author-anushka sharma
